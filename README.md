@@ -15,7 +15,7 @@ https://public.tableau.com/app/profile/abigail.shalo.k/viz/EconomicFreedomDashbo
 https://public.tableau.com/app/profile/abigail.shalo.k/viz/EconomicFreedomStory/Story1
 
 ## VideoDemo
-Demo link <gdrive>
+https://drive.google.com/file/d/1z4keybV5fvSdj5zLU_QPbbSCleU5qBhb/view?usp=sharing
 
 ## Contribution
 - Abigail
