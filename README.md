@@ -18,7 +18,7 @@ https://public.tableau.com/app/profile/abigail.shalo.k/viz/EconomicFreedomStory/
 https://drive.google.com/file/d/1hTiDnmHeMV3PKgNEFUlImbL9zPPWqZmc/view?usp=sharing
 
 ## Contribution
-- Abigail
+- Abigail abishak1902@gmail.com
 - Thanushiya
 - Mithila
 - Sree Priya
